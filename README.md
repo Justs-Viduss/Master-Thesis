@@ -1,2 +1,4 @@
 # Master-Thesis
-Research of Boosting Algorithms Versus Traditional Methods in Credit Card Fraud Detection Across Varied Datasets
+Title: Boosting Algorithms for Credit Card Fraud Detection Across Varied Datasets
+
+How to use repository:
