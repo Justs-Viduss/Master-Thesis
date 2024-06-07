@@ -6,3 +6,6 @@ https://github.com/users/Justs-Viduss/projects/1/views/1
 
 # Project Roadmap (Overview)
 https://github.com/users/Justs-Viduss/projects/1/views/4
+
+# Other Project artefacts available at:
+Folder: Project_Artifacts
